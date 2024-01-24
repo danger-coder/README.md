@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu</h3>
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 - 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **PHP**
